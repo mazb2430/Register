@@ -1,2 +1,2 @@
 # Register
-You can register your valuable things
+Helps you keep track of the value of things. 
